@@ -1,4 +1,7 @@
+![FSD_HTML_Cat_photo_APP](https://github.com/Sriinidhi/FCC_Responsive_WebDesign_CatPhoto_APP/assets/102644860/2957478c-24a6-401e-9ddc-81c0688103ed)
+
 Hello there!
+
 Here I share about the Freecodecamp responsive web design module Code, completed projects which worked by me and developed.
 
 Module name: learn-html-by-building-a-cat-photo-app
